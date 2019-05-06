@@ -2,7 +2,7 @@
  * Reinforcement Learning Book / Exercise 4.7
  *
  * $ sudo apt-get install libgsl-dev libgsl2 
- * $ gcc car_rentals.c -lgsl -lgslcblas -lm -o car_rentals
+ * $ gcc car_rental2.c -lgsl -lgslcblas -lm -o car_rental2
  */
 
 
